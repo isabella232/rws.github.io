@@ -50,9 +50,8 @@
 
 
     <div id="footer" class="section text-white">
-      <div class="container">
-        {% capture foottext %} {% include footer.md %} {% endcapture %}
-        {{ foottext | markdownify }}
+      <div class="container" style="width: 100%;">
+        {% include footer.html %}
       </div>
     </div>
   </div>
