@@ -1,8 +1,2 @@
-
-
-Design by Tim O'Brien [t413.com](http://t413.com/)
-&mdash;
-[SinglePaged theme](https://github.com/t413/SinglePaged)
-&mdash;
-this site is [open source]({{ site.source_link }})
-
+Interested in joining, go to: [SDL Careers](http://www.sdl.com/about/career/)
+<p>Copyright (c) 2015 All Rights Reserved by the SDL Group.</p>
