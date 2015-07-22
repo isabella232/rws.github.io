@@ -15,8 +15,8 @@ This module provides supporting JavaScript to allow users of SDL Tridion to make
 Contextual Image Optimizer Template Building Block
 This module provides a Contextual Image Optimizer Template Building Block (TBB) that allow users of SDL Tridion to make use of the Contextual Image Delivery transformation service.
 
-Go now to [SDL Contextual Web Github](https://github.com/sdl-context/integration)
+Go now to [SDL Contextual Web Github](https://github.com/sdl/sdl-context-integration)
 
 
 Or simply get started right away:
-`git clone https://github.com/sdl-context/integration.git`
+`git clone https://github.com/sdl/sdl-context-integration.git`
