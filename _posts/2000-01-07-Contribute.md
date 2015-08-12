@@ -1,8 +1,8 @@
 ---
 title: "Contribute"
-bg: '#006600'
-color: white
-fa-icon: plug
+bg: "#FFD619"
+color: black
+fa-icon: thumbs-up
 ---
 
 # Contributing
