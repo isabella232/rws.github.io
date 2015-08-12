@@ -1,6 +1,6 @@
 ---
 title: "Contribute"
-bg: "#FFD619"
+bg: "#FAD114"
 color: black
 fa-icon: thumbs-up
 ---
