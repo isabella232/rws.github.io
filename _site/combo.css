@@ -516,10 +516,18 @@ html { box-sizing: border-box; }
   
   
   
-  nav .p-contribute { border-color: #0fbfcf; }
-  #contribute { background-color: #0fbfcf !important; color: #f8f8f8; }
-  #contribute a { color: #f8f8f8; }
-  #contribute .sectiondivider { color: #0fbfcf; }
+  nav .p-contribute { border-color: #FFD619; }
+  #contribute { background-color: #FFD619 !important; color: #111111; }
+  #contribute a { color: #111111; }
+  #contribute .sectiondivider { color: #FFD619; }
+
+  
+  
+  
+  nav .p-dxa { border-color: #0fbfcf; }
+  #dxa { background-color: #0fbfcf !important; color: #f8f8f8; }
+  #dxa a { color: #f8f8f8; }
+  #dxa .sectiondivider { color: #0fbfcf; }
 
   
   
@@ -548,10 +556,10 @@ html { box-sizing: border-box; }
   
   
   
-  nav .p-intro { border-color: ; }
-  #intro { background-color:  !important; color: #111111; }
+  nav .p-intro { border-color: #E0E0E0; }
+  #intro { background-color: #E0E0E0 !important; color: #111111; }
   #intro a { color: #111111; }
-  #intro .sectiondivider { color: ; }
+  #intro .sectiondivider { color: #E0E0E0; }
 
 
 
@@ -593,13 +601,43 @@ hr {
   border-color: #111111;
 }
 
+nav {
+	background-color: #FFF;
+}
+
 .container { word-wrap: break-word; }
 .center { text-align: center; }
 .intro { 
-  text-algin: center; 
-  height: 565px;
+  text-align: center; 
+  min-height: 565px;
   background-image: url(../img/sdl-content-banner.jpg);
-  background-repeat: no-repeat;  
+  background-repeat: no-repeat;
+  width: 100%;
+  background-size: cover;
+  position: relative;
+}
+
+.intro:before {
+	background: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3ClinearGradient id='1' x1='0' y1='0' x2='100%25' y2='0'%3E%3Cstop offset='0%25' stop-color='%23FFF' stop-opacity='.3'/%3E%3Cstop offset='15%25' stop-color='%23FFF' stop-opacity='.9'/%3E%3Cstop offset='50%25' stop-color='%23FFF' stop-opacity='1'/%3E%3Cstop offset='85%25' stop-color='%23FFF' stop-opacity='.9'/%3E%3Cstop offset='100%25' stop-color='%23FFF' stop-opacity='.3'/%3E%3C/linearGradient%3E%3Crect width='100%25' height='100%25' fill='url%28%231%29'/%3E%3C/svg%3E");
+	content: "";
+	display: block;
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 100px;
+	bottom: 100px;
+	opacity: .85;
+}
+
+.intro .container {
+	padding: 120px 40px;
+}
+
+.intro .description {
+	font-size: 25px;
+	line-height: 30px;
+	padding: 60px 60px 0;
+	color: #545b6a;
 }
 
 .left, .container .left { text-align: left; }
