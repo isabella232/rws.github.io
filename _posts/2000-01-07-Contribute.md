@@ -1,6 +1,6 @@
 ---
 title: "Contribute"
-bg: '#0fbfcf'
+bg: '#006600'
 color: white
 fa-icon: plug
 ---
