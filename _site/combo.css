@@ -508,6 +508,14 @@ html { box-sizing: border-box; }
   
   
   
+  nav .p-contribute { border-color: #FAD114; }
+  #contribute { background-color: #FAD114 !important; color: #111111; }
+  #contribute a { color: #111111; }
+  #contribute .sectiondivider { color: #FAD114; }
+
+  
+  
+  
   nav .p-about { border-color: #006600; }
   #about { background-color: #006600 !important; color: #f8f8f8; }
   #about a { color: #f8f8f8; }
@@ -516,10 +524,10 @@ html { box-sizing: border-box; }
   
   
   
-  nav .p-contribute { border-color: #FAD114; }
-  #contribute { background-color: #FAD114 !important; color: #111111; }
-  #contribute a { color: #111111; }
-  #contribute .sectiondivider { color: #FAD114; }
+  nav .p-language { border-color: #1a955d; }
+  #language { background-color: #1a955d !important; color: #f8f8f8; }
+  #language a { color: #f8f8f8; }
+  #language .sectiondivider { color: #1a955d; }
 
   
   
