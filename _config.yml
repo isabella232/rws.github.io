@@ -10,8 +10,13 @@ exclude: [CNAME, README.md, .gitignore]
 permalink: / ## disables post output
 timezone: null
 lsi: false
+safe: true
+source: .
+incremental: false
 markdown: kramdown
 highlighter: rouge
+gist:
+  noscript: false
 
 
 ### content configuration ###
