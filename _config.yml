@@ -6,8 +6,9 @@ safe: false
 
 
 ### site serving configuration ###
+future: true
 exclude: [CNAME, README.md, .gitignore]
-permalink: / ## disables post output
+permalink: /:year-:month-:day-:title 
 timezone: null
 lsi: false
 safe: true
