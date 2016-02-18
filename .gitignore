@@ -1,1 +1,11 @@
-/_site
+.classpath
+.project
+.checkstyle
+.flattened-pom.xml
+*.iml
+.idea
+.settings/
+target/
+classes/
+_site/
+.DS_Store
