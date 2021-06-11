@@ -21,10 +21,10 @@ gist:
 
 
 ### content configuration ###
-title:       "SDL Github - Open Source"
-keywords:    "SDL, github, open, source, open source, Java, OData"
-description: "SDL Open Source initiatives"
-source_link: "https://github.com/sdl"
+title:       "RWS Github - Open Source"
+keywords:    "RWS, github, open, source, open source, Java, OData"
+description: "RWS Open Source initiatives"
+source_link: "https://github.com/rws"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key:  "UA-156052-47"
