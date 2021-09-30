@@ -69,9 +69,7 @@ $.extend($.easing,
     }
 })( jQuery );
 
-
 $(document).ready(function (){
-
     $('nav li a').navScroller();
 
     //section divider icon click gently scrolls to reveal the section
@@ -90,6 +88,17 @@ $(document).ready(function (){
             });
         }
 	});
+
+    $('.listboxes ul li').addClass("pointer");
+
+    $('.listboxes ul li').on('mousedown', function(e) {
+        const a = $(this).find('a');
+        const href = $(this).find('a').attr('href');
+        if(e.which != 3) {
+            e.preventDefault();
+            window.open(href, '_blank');
+        }
+    });
 
 });
 
