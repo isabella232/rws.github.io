@@ -7,8 +7,8 @@ title: "Language technology"
 	<div class="listboxes">
 		<ul>
 			<li>
-				<h3><a href="https://rws.github.io/languagecloud-api-docs/index.html" target="_blank">Language Cloud</a></h3>
-				<div class="description">Connect your external business applications to Language Cloud</div>
+				<h3><a href="https://rws.github.io/languagecloud-api-docs/index.html" target="_blank">RWS Language Cloud</a></h3>
+				<div class="description">Connect your external business applications to the RWS Language Cloud platform</div>
 			</li>
 			<li>
 				<h3><a href="https://rws.github.io/studio-api-docs/articles/intro.html" target="_blank">Trados Studio</a></h3>
