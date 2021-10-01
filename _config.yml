@@ -21,9 +21,9 @@ gist:
 
 
 ### content configuration ###
-title:       "RWS Github - Open Source"
-keywords:    "RWS, github, open, source, open source, Java, OData"
-description: "RWS Open Source initiatives"
+title:       "RWS Developers"
+keywords:    "RWS, github, open, source, open source, Java, OData, language cloud, trados, tridion, contenta, xpp, passolo, multiterm, groupshare, worldserver"
+description: "RWS Developers - extend the functionality of your RWS products using the available APIs"
 source_link: "https://github.com/rws"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
