@@ -34,6 +34,14 @@ title: "Language technology"
 				<h3><a href="https://rws.github.io/worldserver-api-docs/index.html" target="_blank">WorldServer</a></h3>
 				<div class="description">Improve functionality, manage integrations and customize the user interface of your TMS</div>
 			</li>
+			<li>
+				<h3><a href="https://rws.github.io/mantra-api-docs/index.html" target="_blank">Managed Translation</a></h3>
+				<div class="description"> Integrate different types of translation resources in your localization process</div>
+			</li>
+			<li>
+				<h3><a href="https://rws.github.io/multitrans-api-docs/index.html" target="_blank">MultiTrans</a></h3>
+				<div class="description">Automate third-party integrations and improve the management of your TMS projects</div>
+			</li>
 		</ul>
 	</div>
 </div>
